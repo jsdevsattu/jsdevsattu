@@ -7,7 +7,7 @@
 <hr>
 
 ```javascript
-const gyan = {
+const sattu = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Dart, Solidity],
   tools: [React, Node, TailwindCss, Tensorflow, Keras,],
